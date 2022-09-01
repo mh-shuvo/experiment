@@ -1,6 +1,6 @@
 <?php
 return [
   "name => "Name",
-  "roll" => "Roll"
+  "roll" => "Roll",
 ];
   
