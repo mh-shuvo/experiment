@@ -1,5 +1,6 @@
 <?php
 return [
-  "name => "Enter your name"  
+  "name => "Name",
+  "roll" => "Roll"
 ];
   
